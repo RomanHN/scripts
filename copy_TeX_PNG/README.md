@@ -10,7 +10,7 @@ To fix this, I created a bash script that automatically renders a given equation
 
 ![](equation.png)
 
-For this to work on your system, you need to be using an Arch-based Linux distribution as well as the X Window System. Install [`tex2png`](https://aur.archlinux.org/packages/tex2png/), which renders TeX into a PNG image, and [`xclip`](https://github.com/astrand/xclip), which puts things in the clipboard. Then, download [equation2clipboard.sh](equation2clipboard.sh) and make it executable with `chmod +x equation2clipboard.sh`. I recommend making a bash alias pointing to this script by opening the aliases file with `nano ~/.bash_aliases` and adding something like this on the bottom: `alias eq='~/scripts/equation2clipboard.sh'`. Here's an example of how to use the script:
+For this to work on your system, you need to be using an Arch-based Linux distribution as well as the X Window System. Install [`tex2png`](https://aur.archlinux.org/packages/tex2png/), which renders TeX into a PNG image, and [`xclip`](https://github.com/astrand/xclip), which puts things in the clipboard. Then, download [equation2clipboard.sh](`equation2clipboard.sh`) and make it executable with `chmod +x equation2clipboard.sh`. I recommend making a bash alias pointing to this script by opening the aliases file with `nano ~/.bash_aliases` and adding something like this on the bottom: `alias eq='~/scripts/equation2clipboard.sh'`. Here's an example of how to use the script:
 
 ```
 eq "a^2+b^2=c^2"
