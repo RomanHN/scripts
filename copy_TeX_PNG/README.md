@@ -1,6 +1,6 @@
 # quickly copy an image of a TeX equation
 
-Today, in my Calculus class (which is currently held on Microsoft Teams), someone complained about how clumsy it is to answer questions from the teacher in the chat box, because Teams doesn't support TeX rendering. For example, my classmates' answers to "what's the Pythagorean theorem?" might look like the following.
+Today, in my Physics class (which is currently held on Microsoft Teams), someone complained about how clumsy it is to answer questions from the teacher in the chat box, because Teams doesn't support TeX rendering. For example, my classmates' answers to "what's the Pythagorean theorem?" might look like the following.
 
 ```
 a^2 + b^2 = c^2
