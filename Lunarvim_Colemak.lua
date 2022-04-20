@@ -1,4 +1,5 @@
 -- https://www.xudongz.com/blog/2017/vim-colemak/
+-- paste this file in ~/.config/lvim/config.lua
 lvim.keys.normal_mode["d"] = "g"
 lvim.keys.normal_mode["e"] = "k"
 lvim.keys.normal_mode["f"] = "e"
