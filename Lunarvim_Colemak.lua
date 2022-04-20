@@ -1,3 +1,4 @@
+-- https://www.xudongz.com/blog/2017/vim-colemak/
 lvim.keys.normal_mode["d"] = "g"
 lvim.keys.normal_mode["e"] = "k"
 lvim.keys.normal_mode["f"] = "e"
